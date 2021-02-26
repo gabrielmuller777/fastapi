@@ -1,4 +1,4 @@
-#!/home/gabriel/Desktop/fastapi/bin/python
+#!/home/mechanix/Desktop/Projects/fastapi/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
